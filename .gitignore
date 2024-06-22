@@ -118,4 +118,4 @@ run/
 !gradle-wrapper.jar
 
 # Remapped sources
-remappedSrc/
+src/
